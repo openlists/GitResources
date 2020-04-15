@@ -22,7 +22,7 @@ As a very brief overview / cheat-sheet:
 
 The following are resources that provide tutorials or guides through learning git and/or Github.
 
-- This [presentation](https://speakerdeck.com/alicebartlett/git-for-humans?slide=95) gives a clear conceptual overview of the use cases and key terminology of using git
+- This [presentation](https://speakerdeck.com/alicebartlett/git-for-humans?slide=1) gives a clear conceptual overview of the use cases and key terminology of using git
 - This [simple guide](https://rogerdudler.github.io/git-guide/) to git, by Roger Dudler, provides a brief and simple overview to git
 - The [git](https://git-scm.com) has full documentation, including a [book on git](https://git-scm.com/book/en/v2)
 - Github themselves have lots of documentation, including a [git handbook](https://guides.github.com/introduction/git-handbook/) that introduces the main concept for version control, and a [hello world](https://guides.github.com/activities/hello-world/) page, that gets your started using Github
