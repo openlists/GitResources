@@ -34,6 +34,8 @@ The following are resources that provide tutorials for learning git and/or Githu
 - Atlassian have a [series of tutorials](https://www.atlassian.com/git/tutorials) for learning how to use git
 - This [journal article](https://dx.doi.org/10.1371/journal.pcbi.1004668) provides a quick introduction to using git & Github for scientists
 - Software Carpentry have a [introductory tutorial](http://swcarpentry.github.io/git-novice/) for getting started with git
+- This [tutorial video](https://www.youtube.com/watch?v=6OkOmPqumWo) steps through a hands-on tutorial for using Github for researchers
+- The [PSModels git tutorial](https://pslmodels.github.io/Git-Tutorial/) is a comprehensive online textbook introducing git & Github
 
 ## Tips and Tricks
 
@@ -51,6 +53,7 @@ Dedicated exercises for learning and practicing git:
 
 - [Learn git branching](https://learngitbranching.js.org/) is an online, interactive tutorial with demonstrations and exercises
 - A [set of exercises](https://github.com/eficode-academy/git-katas) for deliberate git pratice
+- [Git Gud](https://github.com/benthayer/git-gud), a command line game to help learn and practice Git
 
 ## Other Lists
 
