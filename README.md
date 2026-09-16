@@ -36,6 +36,7 @@ The following are resources that provide tutorials for learning git and/or Githu
 - Software Carpentry have a [introductory tutorial](http://swcarpentry.github.io/git-novice/) for getting started with git
 - This [tutorial video](https://www.youtube.com/watch?v=6OkOmPqumWo) steps through a hands-on tutorial for using Github for researchers
 - The [PSModels git tutorial](https://pslmodels.github.io/Git-Tutorial/) is a comprehensive online textbook introducing git & Github
+- [The Ultimate Git & GitHub Tutorial](https://github.com/livelyfun/Git-Github_Tutorial) by livelyfun — a practical beginner-to-advanced roadmap covering architecture, branching, merging, rebasing, recovery with reflog/bisect, and a high-density command cheat sheet with emergency triage guide
 
 ## Tips and Tricks
 
