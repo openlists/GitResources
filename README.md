@@ -45,6 +45,7 @@ Useful tips, tricks, and cheat-sheets for git include:
 - [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf), from Github
 - [Git Tips](https://github.com/git-tips/tips), from Github
 - [Git cheat sheet](https://neuroplausible.com/github), from Olivia Guest
+- [Git Commands](https://gitcommands.si/), a searchable reference of 233 Git commands explained in plain English, with a printable cheat sheet
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules), or how to do specific tasks, and how to fix things
 - A [list of special files](https://github.com/kmindi/special-files-in-repository-root) available and used on Github
 
