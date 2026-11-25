@@ -38,6 +38,8 @@ The following are resources that provide tutorials for learning git and/or Githu
 - The [PSModels git tutorial](https://pslmodels.github.io/Git-Tutorial/) is a comprehensive online textbook introducing git & Github
 - [The Ultimate Git & GitHub Tutorial](https://github.com/livelyfun/Git-Github_Tutorial) by livelyfun — a practical beginner-to-advanced roadmap covering architecture, branching, merging, rebasing, recovery with reflog/bisect, and a high-density command cheat sheet with emergency triage guide
 
+- [The Build Log Git guides](https://github.com/Georgefifth/journey/blob/master/guides/README.md) by George Fifth cover first commits, branching, merge conflicts, and practice exercises in ten free guides
+
 ## Tips and Tricks
 
 Useful tips, tricks, and cheat-sheets for git include:
